@@ -17,3 +17,37 @@ JS
 Git
 Figma
 Blender
+# **Code example:**
+***
+```const name = 'Tom';
+
+switch (name) {
+    case 'John':
+        console.log('Привет Jonh');
+        break;
+    case 'Jim':
+        console.log('Hi, Jim');
+        break;
+    case 'Jam':
+    case 'Jom':
+        console.log(Hi, guys);
+        break;
+    case 'Alex':
+        console.log('Hi,Alex');
+        break;
+    default:
+        console.log('Nobody say hi');
+}```
+# **Education:**
+***
+Moscow State Technical University (MGTU)
+Process engineer
+# **Courses:**
+***
+    Strada HTML&CSS (completed)
+    Result School HTML&CSS (completed)
+    RS Schools Course «JavaScript/Front-end. Stage 0» (in progress)
+# **Languages:**
+***
+Russian - native speaker
+English - A2 (Recently, more and more I study new words, read literature, various articles.I want to improve my knowledge in this language to level B1)
