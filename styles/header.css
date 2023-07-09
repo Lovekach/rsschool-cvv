@@ -20,13 +20,13 @@ p {
     font-family: var(--font-family-bold);
 }
 
-h2 {
+.about-me h2 {
     font-family: var(--font-family-bold);
     font-size: 22px;
     margin-top: 40px;
 }
 
-h2 ul {
+.about-me ul {
     font-family: var(--font-family-regular);
     font-size: 18px;
 }
