@@ -1,0 +1,23 @@
+:root {
+    --color-white: #FFFFFF;
+    --color-black: #2D3436;
+    --color-graysoft-24: #f5f1f1;
+    --color-greendark: #00B894;
+
+
+    --font-family-bold: ExtraB, sans-serif;
+    --font-family-medium: ExtraM, sans-serif;
+    --font-family-regular: ExtraR, sans-serif;
+
+    --animation-speed: .3s;
+    --animation-func: ease;
+    --animation: var(--animation-speed) var(--animation-func);
+}
+
+body {
+    margin: 0;
+}
+
+* {
+    box-sizing: border-box;
+}

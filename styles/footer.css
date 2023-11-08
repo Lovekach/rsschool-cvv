@@ -1,0 +1,79 @@
+.contact-content {
+    display: block;
+    margin-top: 60px;
+    margin-left: 100px;
+    padding: 0 320px;
+}
+
+.contact-title p {
+    color: var(--color-black);
+    font-family: var(--font-family-bold);
+    font-size: 20px;
+    text-transform: uppercase;
+}
+
+.contact-title a img {
+    margin-right: 25px;
+    width: 35px;
+    height: 35px;
+}
+
+.contact-title a img:hover {
+    width: 55px;
+    height: 55px;
+    transition: var(--animation);
+    margin-bottom: -20px;
+}
+
+.contact-title h2 {
+    margin-top: 60px;
+    color: var(--color-black);
+    font-family: var(--font-family-regular);
+    font-size: 22px;
+}
+
+.contact-icons {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 2rem;
+    margin-top: 1rem;
+    margin-bottom: 100px;
+}
+
+.contact-info h3 {
+    color: var(--color-black);
+    font-family: var(--font-family-bold);
+    font-size: 20px;
+}
+
+.contact-info p {
+    color: var(--color-black);
+    font-family: var(--font-family-regular);
+    font-size: 16px;
+    text-transform: capitalize;
+
+}
+
+.contact-info p:hover {
+    cursor: pointer;
+    color: var(--color-greendark);
+    font-size: 20px;
+    transition: var(--animation);
+    margin-top: -15px;
+    margin-right: -15px;
+}
+
+.contact-icon-box {
+    align-items: center;
+    display: flex;
+    gap: 2rem;
+    margin-right: 50px;
+}
+
+.contact-icon-box span {
+    background-color: var(--color-white);
+    border-radius: 50%;
+    box-shadow: 0 0 10px rgba(0, 0, 0, .2);
+    padding: 1rem;
+
+}
