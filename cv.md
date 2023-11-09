@@ -53,7 +53,7 @@ for (let i = 0; i < length.cart; i++) {
    * Strada HTML&CSS (completed)
    * Result School HTML&CSS (completed)
    * RS Schools Course «JavaScript/Front-end. Stage 0» (completed)
-   * RS Schools Course «JavaScript/Front-end. Stage 0» (completed)
+   * RS Schools Course «JavaScript/Front-end. Stage 1» (in progress)
    
 ## Languages:
 * Russian - native speaker
