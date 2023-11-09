@@ -54,7 +54,7 @@ for (let i = 0; i < length.cart; i++) {
    * Result School HTML&CSS (completed)
    * RS Schools Course «JavaScript/Front-end. Stage 0» (completed)
    * RS Schools Course «JavaScript/Front-end. Stage 1» (in progress)
-   * RS Schools Course «JavaScript/Front-end. Stage 2» (nope)
+  
    
 ## Languages:
 * Russian - native speaker
