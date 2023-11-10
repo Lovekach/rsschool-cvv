@@ -1,2 +1,2 @@
-https://lovekach.github.io/rsschool-cv/cv
-https://lovekach.github.io/rsschool-cv/
+https://lovekach.github.io/rsschool-cv/cvc
+https://lovekach.github.io/rsschool-cv/c
